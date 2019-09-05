@@ -1,3 +1,0 @@
-./luser-demo08.sh: line 31: root:x:0:0:root:/root:/bin/bash: No such file or directory
-This is STDERR!
-head: cannot open '/fakefile' for reading: No such file or directory
